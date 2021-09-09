@@ -25,7 +25,8 @@ defmodule Firex.MixProject do
       {:poison, "~> 5.0"},
       {:tesla, "~> 1.4"},
       {:hackney, "~> 1.17"},
-      {:erlexec, "~> 1.18"}
+      {:erlexec, "~> 1.18"},
+      {:ip, "~> 1.1.1"}
     ]
   end
 end
